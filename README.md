@@ -1,3 +1,4 @@
+```
 I. Intro [Context]
     a. The Work
         - The meditations were a series of personal journals kept by stoic phliosopher and Roman emperor Marcus Aurelius. They were never ment for pubic eye,
